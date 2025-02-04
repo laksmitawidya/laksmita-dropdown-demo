@@ -60,7 +60,7 @@ export default App;
 
 To see the component in action, check out the interactive Storybook demo:
 
-[Storybook Live Demo](https://67a21646aad2ce22227b56db-rqhgsszvux.chromatic.com/?path=/story/components-dropdown--single-select-dropdown) _(Update with actual Storybook link)_
+[Storybook Live Demo](https://67a21646aad2ce22227b56db-rqhgsszvux.chromatic.com/?path=/story/components-dropdown--single-select-dropdown)
 
 Run Storybook locally:
 
