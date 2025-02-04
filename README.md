@@ -22,6 +22,10 @@ pnpm install @laksmitawidya/dropdown
 ## Usage
 
 ```tsx
+import { Dropdown, SelectOption } from "@laksmitawidya/Dropdown";
+import "@laksmitawidya/dropdown/dist/dropdown.css";
+import { useState } from "react";
+
 const App = () => {
   const [value, setValue] = useState<SelectOption | undefined>(optionsList[0]);
 
@@ -34,7 +38,13 @@ const App = () => {
         onChange={(value) => {
           setValue(value);
         }}
-        options={optionsList}
+        options={[
+          {
+            value: 1,
+            label:
+              "Apple - A delicious red fruit often used in pies and juices.",
+          },
+        ]}
         optionLabel="Test"
       />
     </div>
@@ -50,7 +60,7 @@ export default App;
 
 To see the component in action, check out the interactive Storybook demo:
 
-[Storybook Live Demo](#) _(Update with actual Storybook link)_
+[Storybook Live Demo](https://67a21646aad2ce22227b56db-rqhgsszvux.chromatic.com/?path=/story/components-dropdown--single-select-dropdown) _(Update with actual Storybook link)_
 
 Run Storybook locally:
 
