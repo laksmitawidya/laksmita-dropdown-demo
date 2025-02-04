@@ -21,6 +21,8 @@ pnpm install @laksmitawidya/dropdown
 
 ## Usage
 
+- Import `@import "@laksmitawidya/dropdown/dist/dropdown.css";` to the main css file
+
 ```tsx
 import { Dropdown, SelectOption } from "@laksmitawidya/Dropdown";
 import "@laksmitawidya/dropdown/dist/dropdown.css";

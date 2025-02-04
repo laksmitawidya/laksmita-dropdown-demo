@@ -1,5 +1,5 @@
-import { Dropdown, SelectOption } from "@laksmitawidya/Dropdown";
-import "@laksmitawidya/dropdown/dist/dropdown.css";
+import { Dropdown, SelectOption } from "@laksmitawidya/Dropdown";\
+
 import { useState } from "react";
 
 export const optionsList = [
