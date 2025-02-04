@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react";
 
-import { Dropdown, DropdownProps } from "@laksmitawidya/Dropdown";
+import { Dropdown, DropdownProps } from "@laksmitawidya/dropdown";
 import { DropdownComponent, optionsList } from "./Dropdown";
 
 const meta = {

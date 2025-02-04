@@ -1,4 +1,4 @@
-import { Dropdown, DropdownProps, SelectOption } from "@laksmitawidya/Dropdown";
+import { Dropdown, DropdownProps, SelectOption } from "@laksmitawidya/dropdown";
 import { useState } from "react";
 
 export const optionsList = [

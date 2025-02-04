@@ -24,7 +24,7 @@ pnpm install @laksmitawidya/dropdown
 - Import `@import "@laksmitawidya/dropdown/dist/dropdown.css";` to the main css file
 
 ```tsx
-import { Dropdown, SelectOption } from "@laksmitawidya/Dropdown";
+import { Dropdown, SelectOption } from "@laksmitawidya/dropdown";
 import "@laksmitawidya/dropdown/dist/dropdown.css";
 import { useState } from "react";
 
