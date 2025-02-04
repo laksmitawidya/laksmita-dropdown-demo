@@ -3,7 +3,7 @@
 [![NPM Version](https://img.shields.io/npm/v/@laksmitawidya/dropdown)](https://www.npmjs.com/package/@laksmitawidya/dropdown)
 [![License](https://img.shields.io/npm/l/@laksmitawidya/dropdown)](https://github.com/laksmitawidya/dropdown/blob/main/LICENSE)
 
-A lightweight and customizable dropdown component for ReactJS, built with Tailwind CSS.
+A lightweight and customizable dropdown component for ReactJS, built with ReactJS, Tailwind CSS and TypeScript.
 
 ## Installation
 
