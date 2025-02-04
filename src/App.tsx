@@ -1,4 +1,4 @@
-import { Dropdown, SelectOption } from "@laksmitawidya/Dropdown";\
+import { Dropdown, SelectOption } from "@laksmitawidya/Dropdown";
 
 import { useState } from "react";
 
